@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haaripriya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!👋;+I'm+Haaripriya!;" />
 </h1>
 <h2 align="center">An Aspiring Fullstack Developer</h2>
 
@@ -24,7 +24,7 @@
 [![](https://visitcount.itsvg.in/api?id=Haarianandh&icon=1&color=10)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+for+visiting!+✌;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+let's+build+something+amazing+together🚀✨;" />
 </h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
