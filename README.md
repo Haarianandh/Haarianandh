@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Haaripriya A L</h1>
-<h3 align="center">An Aspiring Fullstack Developer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haaripriya!;" />
+</h1>
+<h2 align="center">An Aspiring Fullstack Developer</h2>
 
 # 💫 About Me:
 ~ 🔭 I’m currently working on  - MERN STACK<br>~ 👯 I’m looking to collaborate on - FULLSTACK DEVELOPMENT<br>~ 🌱 I’m currently learning - NODE JS & MONGODB<br>~ 💬 Ask me about - PYTHON,DJANGO,REACT,MYSQL & POSTGRESQL<br>~ ⚡ Fun fact -  I build both sleek front-ends and robust back-ends, making me a one-stop shop for web development! 
