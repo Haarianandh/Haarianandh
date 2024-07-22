@@ -24,10 +24,10 @@
 [![](https://visitcount.itsvg.in/api?id=Haarianandh&icon=1&color=10)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thanks+for+stopping+by!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Thanks+for+stopping+by!;" />
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=let's+build+something+amazing+together🚀✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=6000&lines=let's+build+something+amazing+together🚀✨;" />
 </h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
