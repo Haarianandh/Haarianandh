@@ -4,7 +4,7 @@
 <h2 align="center">An Aspiring Fullstack Developer</h2>
 
 # 💫 About Me:
-~ 🔭 I’m currently working on  - JS & Django<br>~ 👯 I’m looking to collaborate on - FULLSTACK DEVELOPMENT<br>~ 🌱 I’m currently learning - React JS<br>~ 💬 Ask me about - PYTHON,DJANGO,MYSQL & POSTGRESQL<br>~ ⚡ Fun fact -  I build both sleek front-ends and robust back-ends, making me a one-stop shop for web development! 
+~ 🔭 I’m currently working on  - PERN Stack <br>~ 👯 I’m looking to collaborate on - FULLSTACK DEVELOPMENT<br>~ 🌱 I’m currently learning - React JS & Java<br>~ 💬 Ask me about - PYTHON,DJANGO,MYSQL & POSTGRESQL<br>~ ⚡ Fun fact -  I build both sleek front-ends and robust back-ends, making me a one-stop shop for web development! 
 
 
 ## 🌐 Socials:
